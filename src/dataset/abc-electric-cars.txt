@@ -1,0 +1,94 @@
+Información de la Empresa:
+- Nombre: ABC Autos Eléctricos
+- Teléfono: 124567891
+- Descripción: Venta de autos eléctricos de todas las marcas.
+- Página web: ABC.com.mx
+- Tipos de autos: Actualmente contamos con las marcas Tesla, Hyundai, Nissan, Chevrolet, y BMW.
+- Horario de atención: El horario es de 9:00 a 18:00 hrs.
+
+¿Cuál es el nombre de la empresa?
+Respuesta: ABC Autos Eléctricos
+
+¿Cuál es el teléfono de la empresa?
+Respuesta: 124567891
+
+¿Cómo se describe la empresa?
+Respuesta: Venta de autos eléctricos de todas las marcas.
+
+¿Cuál es la página web de la empresa?
+Respuesta: ABC.com.mx
+
+¿Qué tipos de autos ofrecen?
+Respuesta: Actualmente contamos con las marcas Tesla, Hyundai, Nissan, Chevrolet, y BMW.
+
+¿Cuál es el horario de atención?
+Respuesta: El horario es de 9:00 a 18:00 hrs.
+
+¿Ofrecen mantenimiento para los autos eléctricos comprados en su establecimiento?
+Respuesta: Sí, ofrecemos un servicio integral de mantenimiento exclusivo para los autos eléctricos adquiridos aquí, con planes anuales y servicios especializados para cada marca.
+
+¿Tienen opciones de seguro para los autos eléctricos?
+Respuesta: Contamos con alianzas con las principales aseguradoras para ofrecer opciones de seguro atractivas y completas para su auto eléctrico, incluyendo cobertura contra todo riesgo y asistencia en carretera.
+
+¿Cuál es el rango de precios de los autos eléctricos disponibles?
+Respuesta: Nuestros autos eléctricos tienen un rango de precios que va desde los $30,000 hasta los $120,000, dependiendo del modelo, marca y especificaciones.
+
+¿Puedo probar el auto antes de comprarlo?
+Respuesta: Por supuesto, ofrecemos pruebas de manejo por cita para que experimente de primera mano la comodidad y el rendimiento de nuestros autos eléctricos.
+
+¿Qué garantía ofrecen en los autos eléctricos?
+Respuesta: Todos nuestros autos eléctricos vienen con una garantía de fábrica de 5 años o 100,000 kilómetros, lo que ocurra primero, además de soporte técnico especializado.
+
+¿Tienen opciones de financiamiento?
+Respuesta: Sí, ofrecemos diversas opciones de financiamiento y leasing a través de nuestros socios financieros, con tasas competitivas y planes adaptados a sus necesidades.
+
+¿Cuánto tiempo tarda la carga completa de un auto eléctrico?
+Respuesta: El tiempo de carga completa varía según el modelo, pero en promedio, nuestros autos eléctricos se cargan completamente en 6 a 8 horas con un cargador estándar en casa.
+
+¿Dónde puedo cargar mi auto eléctrico?
+Respuesta: Además de cargarlo en su hogar, puede utilizar cualquiera de las estaciones de carga pública ubicadas en toda la ciudad. Ofrecemos a nuestros clientes un mapa detallado de todas las ubicaciones disponibles.
+
+¿Qué autonomía tienen los autos eléctricos que venden?
+Respuesta: Nuestros autos eléctricos ofrecen una autonomía que va desde 250 km hasta 500 km con una sola carga, dependiendo del modelo y las condiciones de manejo.
+
+¿Puedo personalizar el auto eléctrico antes de comprarlo?
+Respuesta: Absolutamente, brindamos opciones de personalización para que pueda elegir el color, acabados interiores y características adicionales según sus preferencias.
+
+¿Cuánto tiempo dura la batería de un auto eléctrico antes de necesitar ser reemplazada?
+Respuesta: La batería de nuestros autos eléctricos está diseñada para durar aproximadamente 8 a 10 años bajo uso normal, pero su vida útil puede variar dependiendo de los hábitos de conducción y carga.
+
+¿Ofrecen algún programa de reciclaje para baterías de autos eléctricos?
+Respuesta: Sí, estamos comprometidos con la sostenibilidad y ofrecemos un programa de reciclaje para baterías de autos eléctricos al final de su vida útil, garantizando un proceso ecológico.
+
+¿Puedo actualizar el software del auto eléctrico después de la compra?
+Respuesta: Definitivamente, todos nuestros autos eléctricos vienen con la capacidad de recibir actualizaciones de software de forma remota, asegurando que su vehículo siempre esté al día con las últimas funcionalidades.
+
+¿Qué tipo de conectividad ofrecen los autos eléctricos?
+Respuesta: Nuestros autos eléctricos están equipados con conectividad avanzada, incluyendo Wi-Fi, Bluetooth, y compatibilidad con aplicaciones móviles para control y monitoreo remoto del vehículo.
+
+¿Tienen programas de referidos o descuentos para clientes recurrentes?
+Respuesta: Valoramos la lealtad de nuestros clientes y ofrecemos un programa de referidos que otorga beneficios tanto al referidor como al nuevo cliente, además de descuentos especiales para compras futuras.
+
+¿Cómo afecta el clima frío al rendimiento del auto eléctrico?
+Respuesta: El clima frío puede reducir temporalmente la autonomía del auto eléctrico debido al uso de la calefacción y a la eficiencia de la batería. Sin embargo, nuestros modelos están diseñados para minimizar este impacto.
+
+¿Ofrecen asistencia en carretera para autos eléctricos?
+Respuesta: Sí, proporcionamos un servicio de asistencia en carretera 24/7 para todos nuestros autos eléctricos, incluyendo asistencia de carga de emergencia, para su tranquilidad.
+
+¿Los autos eléctricos vienen con algún sistema de asistencia al conductor?
+Respuesta: Todos nuestros autos están equipados con sistemas avanzados de asistencia al conductor, incluyendo control de crucero adaptativo, frenado automático de emergencia y alerta de cambio de carril, para una conducción más segura y cómoda.
+
+¿Existe algún incentivo gubernamental para comprar un auto eléctrico?
+Respuesta: Muchos gobiernos ofrecen incentivos para la compra de autos eléctricos, incluyendo subsidios directos, exenciones de impuestos y acceso a carriles preferentes. Le recomendamos consultar las políticas locales vigentes.
+
+¿Puedo instalar un cargador de auto eléctrico en mi casa?
+Respuesta: Sí, ofrecemos soluciones de instalación de cargadores domésticos para autos eléctricos, con opciones que se adaptan a diferentes necesidades y presupuestos, facilitando la carga en su hogar.
+
+¿Cuáles son los pasos para realizar una compra en ABC Autos Eléctricos?
+Respuesta:
+   1. Visita nuestra página web ABC.com.mx.
+   2. Selecciona el auto y revisa sus detalles.
+   3. Contacta al 124567891 para agendar una cita o resolver dudas.
+   4. Visítanos para finalizar tu elección.
+   5. Completa el proceso de compra.
+   6. Recoge tu auto o coordina la entrega.
